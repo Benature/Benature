@@ -24,6 +24,7 @@
 - [Lazy Kit](https://github.com/Benature/lazy-kit)
   - 剪映视频字幕生成提取
 - [PDF Helper](https://github.com/Benature/pdf-helper)
+  - PDF bookmark extract/embed
 - [wechat post template](https://github.com/Benature/wechat-post-template): Markdown to 微信推送
 - [sync-confluence](https://github.com/Benature/sync-confluence): sync local markdown files to confluence
 
