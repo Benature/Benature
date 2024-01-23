@@ -9,7 +9,9 @@
   - [Text Format](https://github.com/Benature/obsidian-text-format)
   - [Underline](https://github.com/Benature/obsidian-underline)
   - [Metadata Hider](https://github.com/Benature/obsidian-metadata-hider)
-- [My Obsidian Use Case](https://github.com/Benature/Benature-Obsidian)
+  - [Metadata Icon](https://github.com/Benature/obsidian-metadata-icon)
+  - [Share My Plugin List](https://github.com/Benature/obsidian-share-my-plugin-list)
+- [My obsidian use case](https://github.com/Benature/Benature-Obsidian)
 
 <!-- <a href="https://github.com/Benature/obsidian-text-format" title="Text Format"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Benature&repo=obsidian-text-format&theme=nightowl"></a> -->
 
