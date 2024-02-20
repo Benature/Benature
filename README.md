@@ -10,7 +10,7 @@
   - [Underline](https://github.com/Benature/obsidian-underline) ![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22obsidian-underline%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
   - [Metadata Hider](https://github.com/Benature/obsidian-metadata-hider) ![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22metadata-hider%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
   - [Metadata Icon](https://github.com/Benature/obsidian-metadata-icon)
-  - [Share My Plugin List](https://github.com/Benature/obsidian-share-my-plugin-list)
+  - [Share My Plugin List](https://github.com/Benature/obsidian-share-my-plugin-list) ![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22share-my-plugin-list%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
 - [My obsidian use case](https://github.com/Benature/Benature-Obsidian)
 
 <!-- <a href="https://github.com/Benature/obsidian-text-format" title="Text Format"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Benature&repo=obsidian-text-format&theme=nightowl"></a> -->
