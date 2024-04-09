@@ -5,7 +5,7 @@
 
 ### Obsidian 
 
-The plugins I developed for Obsidian :)
+The plugins that I developed for Obsidian :)
 
 | Plugin Name                                                                                  | Downloads                                                                                                                                                                                                                                                                                                                                               | Stars                                                                                                       |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ The plugins I developed for Obsidian :)
 | [Plugin Reloader](https://github.com/Benature/obsidian-plugin-reloader)                      | [![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22plugin-reloader%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)](https://obsidian.md/plugins?id=plugin-reloader)                     | ![GitHub stars](https://img.shields.io/github/stars/Benature/obsidian-plugin-reloader?style=flat)           |
 | [Share my plugin list](https://github.com/Benature/obsidian-share-my-plugin-list)            | [![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22share-my-plugin-list%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)](https://obsidian.md/plugins?id=share-my-plugin-list)           | ![GitHub stars](https://img.shields.io/github/stars/Benature/obsidian-share-my-plugin-list?style=flat)      |
 | [Default query in backlinks](https://github.com/Benature/obsidian-default-query-in-backlink) | [![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22default-query-in-backlink%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)](https://obsidian.md/plugins?id=default-query-in-backlink) | ![GitHub stars](https://img.shields.io/github/stars/Benature/obsidian-default-query-in-backlink?style=flat) |
-| [Automation](https://github.com/Benature/obsidian-automation)                                | beta                                                                                                                                                                                                                                                                                                                                                    |                                                                                                             |
+| [Automation](https://github.com/Benature/obsidian-automation)                                | [![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22automation%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)](https://obsidian.md/plugins?id=automation)                               | ![GitHub stars](https://img.shields.io/github/stars/Benature/obsidian-automation?style=flat)                |
 
 
 - [My obsidian use case](https://github.com/Benature/Benature-Obsidian) ![GitHub stars](https://img.shields.io/github/stars/Benature/Benature-Obsidian?style=flat)
@@ -47,7 +47,7 @@ The plugins I developed for Obsidian :)
 
 
 
-## 社交媒体 Social Media
+## Social Media 社交媒体 
 
 | 社交媒体   | 账号                                                                              | 二维码                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
