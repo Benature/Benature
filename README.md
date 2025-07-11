@@ -42,6 +42,9 @@ The plugins that I developed for Obsidian :)
 ### Others
 
 - [flomo](https://github.com/Benature/flomo) [![PyPI](https://img.shields.io/pypi/v/flomo)](https://pypi.org/project/flomo/) ![GitHub stars](https://img.shields.io/github/stars/Benature/flomo?style=flat)
+- [wucai](https://github.com/Benature/wucai) [![PyPI](https://img.shields.io/pypi/v/wucai)](https://pypi.org/project/wucai/)
+- [larkpy](https://github.com/Benature/larkpy) [![PyPI](https://img.shields.io/pypi/v/larkpy)](https://pypi.org/project/larkpy/)
+- [omnivore-api](https://github.com/Benature/OmnivoreAPI) [![PyPI](https://img.shields.io/pypi/v/omnivore-api)](https://pypi.org/project/omnivore-api/)
 - [AutoLaTeX](https://github.com/Benature/AutoLaTeX) [![PyPI](https://img.shields.io/pypi/v/autolatex)](https://pypi.org/project/autolatex/)
 - [Exam Rater](https://github.com/Benature/ExamRater): 网页阅卷系统
 
