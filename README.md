@@ -2,7 +2,7 @@
 
 **Obsidian plugin developer · Knowledge management enthusiast · AI/agent tinkerer**
 
-I build tools for notes, reading, research, and everyday automation—mostly with TypeScript, JavaScript, and Python.
+I build tools for notes, reading, research, and everyday automation.
 
 ## Projects
 
