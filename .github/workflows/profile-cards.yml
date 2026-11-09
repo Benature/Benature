@@ -1,0 +1,28 @@
+name: Update profile cards
+
+on:
+  schedule:
+    # Run daily at 03:17 Asia/Shanghai (19:17 UTC).
+    - cron: "17 19 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-profile-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          TIME_ZONE: Asia/Shanghai
+          THEME: github_dark
+          AUTO_PUSH: true
